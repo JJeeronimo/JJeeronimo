@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 
 ## 🧑‍💻 Sobre mim  
 🎯 Apaixonado por tecnologia e inovação  
-🚀 Explorando **Python, IA, DevOps** e muito mais!  
+🚀 Explorando **Python, IA, Banco de Dados** e muito mais!  
 💡 Sempre buscando aprender e compartilhar conhecimento  
 
 ---
