@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 
 **i love codes.**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
-<img src="party-furby.gif" align="right" width="60">
+<img src="party-furby.gif" align="center" width="60">
 
 <br>
 
