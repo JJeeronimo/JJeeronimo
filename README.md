@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou JJeeronimo!  
+# 👋 Olá, eu sou Jeronimo!  
 Bem-vindo ao meu perfil no GitHub! 🚀  
 
 <div align="center">
