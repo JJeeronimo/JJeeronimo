@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 </div>
 
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
+**i love codes.**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
 <img src="party-furby.gif" align="right" width="60">
 
