@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
 
 ## 📫 Como me encontrar?  
-💼 [LinkedIn](https://www.linkedin.com/in/seuperfil/)  
+💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-jeronimo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 ---
 
