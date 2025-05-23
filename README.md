@@ -2,10 +2,11 @@
 Bem-vindo ao meu perfil no GitHub! 🚀  
 
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
+    <img src="welcome-header.gif" alt="welcome to my github profile" width="400">
+    <br>
+    <br>
 </div>
+
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
