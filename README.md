@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 ---
 
 ## 🚀 Meus Projetos  
-🔹 [Projeto 1](https://github.com/JJeeronimo/Video-locadora))  
+🔹 [Projeto 1](https://github.com/JJeeronimo/Video-locadora)
 🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
 
 ## 📫 Como me encontrar?  
