@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou JJeeronimo!  
+Bem-vindo ao meu perfil no GitHub! 🚀  
 
-<!--
-**JJeeronimo/JJeeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/1200x400) <!-- Substitua pelo link da sua imagem -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim  
+🎯 Apaixonado por tecnologia e inovação  
+🚀 Explorando **Python, IA, DevOps** e muito mais!  
+💡 Sempre buscando aprender e compartilhar conhecimento  
+
+---
+
+## 🛠️ Minhas Tecnologias  
+![Python](https://img.icons8.com/?size=100&id=12592&format=png&color=000000) 
+![Html](https://img.icons8.com/?size=100&id=23028&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=39854&format=png&color=000000)
+![MySQL](https://img.icons8.com/?size=100&id=39855&format=png&color=000000) 
+![SQLITE](https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000) 
+
+
+---
+
+## 🚀 Meus Projetos  
+🔹 [Projeto 1](https://github.com/JJeeronimo/Video-locadora))  
+🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
+
+## 📫 Como me encontrar?  
+💼 [LinkedIn](https://www.linkedin.com/in/seuperfil/)  
+
+---
+
+✨ _Se gostou, ⭐ meus repositórios!_
+
+
+
