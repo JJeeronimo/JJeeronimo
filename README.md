@@ -38,8 +38,8 @@ Bem-vindo ao meu perfil no GitHub! 🚀
 ## 🚀 Meus Projetos  
 🔹 [Projeto 1](https://github.com/JJeeronimo/Video-locadora)
 🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
-🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
-🔹 [Projeto 2](https://github.com/JJeeronimo/Projeto-de-Estacionamento)
+🔹 [Projeto 3](https://github.com/JJeeronimo/Minha-Playlist))
+🔹 [Projeto 4](https://github.com/JJeeronimo/CD-player)
 
 ## 📫 Como me encontrar?  
 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-jeronimo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
